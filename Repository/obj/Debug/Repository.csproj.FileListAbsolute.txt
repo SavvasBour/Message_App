@@ -1,0 +1,33 @@
+C:\Users\Savva_000\source\repos\MessageApp\Repository\bin\Debug\Repository.dll
+C:\Users\Savva_000\source\repos\MessageApp\Repository\bin\Debug\Repository.pdb
+C:\Users\Savva_000\source\repos\MessageApp\Repository\bin\Debug\Dapper.dll
+C:\Users\Savva_000\source\repos\MessageApp\Repository\bin\Debug\Models.dll
+C:\Users\Savva_000\source\repos\MessageApp\Repository\bin\Debug\Models.pdb
+C:\Users\Savva_000\source\repos\MessageApp\Repository\bin\Debug\Dapper.xml
+C:\Users\Savva_000\source\repos\MessageApp\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Savva_000\source\repos\MessageApp\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Savva_000\source\repos\MessageApp\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Savva_000\source\repos\MessageApp\Repository\obj\Debug\Repository.dll
+C:\Users\Savva_000\source\repos\MessageApp\Repository\obj\Debug\Repository.pdb
+C:\Users\Savva_000\Desktop\MessageApp\Repository\bin\Debug\Repository.dll
+C:\Users\Savva_000\Desktop\MessageApp\Repository\bin\Debug\Repository.pdb
+C:\Users\Savva_000\Desktop\MessageApp\Repository\bin\Debug\Dapper.dll
+C:\Users\Savva_000\Desktop\MessageApp\Repository\bin\Debug\Models.dll
+C:\Users\Savva_000\Desktop\MessageApp\Repository\bin\Debug\Models.pdb
+C:\Users\Savva_000\Desktop\MessageApp\Repository\bin\Debug\Dapper.xml
+C:\Users\Savva_000\Desktop\MessageApp\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Savva_000\Desktop\MessageApp\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Savva_000\Desktop\MessageApp\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Savva_000\Desktop\MessageApp\Repository\obj\Debug\Repository.dll
+C:\Users\Savva_000\Desktop\MessageApp\Repository\obj\Debug\Repository.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\bin\Debug\Repository.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\bin\Debug\Repository.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\bin\Debug\Dapper.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\bin\Debug\Models.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\bin\Debug\Models.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\bin\Debug\Dapper.xml
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\obj\Debug\Repository.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Repository\obj\Debug\Repository.pdb

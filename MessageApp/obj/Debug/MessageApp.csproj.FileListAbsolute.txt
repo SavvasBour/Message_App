@@ -1,0 +1,62 @@
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\Models.dll
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\Repository.dll
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\Dapper.dll
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\Models.pdb
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\Repository.pdb
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\bin\Debug\Dapper.xml
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\obj\Debug\MessageApp.csprojAssemblyReference.cache
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CopyComplete
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\Savva_000\source\repos\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\obj\Debug\MessageApp.csprojResolveAssemblyReference.cache
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\Models.dll
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\Repository.dll
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\Dapper.dll
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\Models.pdb
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\Repository.pdb
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\bin\Debug\Dapper.xml
+C:\Users\Panagiotis\Desktop\New folder (2)\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CopyComplete
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\Models.dll
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\Repository.dll
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\Dapper.dll
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\Models.pdb
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\Repository.pdb
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\Dapper.xml
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\obj\Debug\MessageApp.csprojAssemblyReference.cache
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CopyComplete
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\NLog.config
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\NLog.dll
+C:\Users\Savva_000\Desktop\MessageApp\MessageApp\bin\Debug\NLog.xml
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\NLog.config
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\Models.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\NLog.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\Repository.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\Dapper.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\Models.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\Repository.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\NLog.xml
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\bin\Debug\Dapper.xml
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\obj\Debug\MessageApp.csprojResolveAssemblyReference.cache
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\obj\Debug\MessageApp.csproj.CopyComplete
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\MessageApp\obj\Debug\MessageApp.pdb

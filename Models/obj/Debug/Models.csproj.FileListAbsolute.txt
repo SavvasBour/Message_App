@@ -1,0 +1,18 @@
+C:\Users\Savva_000\source\repos\MessageApp\Models\bin\Debug\Models.dll
+C:\Users\Savva_000\source\repos\MessageApp\Models\bin\Debug\Models.pdb
+C:\Users\Savva_000\source\repos\MessageApp\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Savva_000\source\repos\MessageApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Savva_000\source\repos\MessageApp\Models\obj\Debug\Models.dll
+C:\Users\Savva_000\source\repos\MessageApp\Models\obj\Debug\Models.pdb
+C:\Users\Savva_000\Desktop\MessageApp\Models\bin\Debug\Models.dll
+C:\Users\Savva_000\Desktop\MessageApp\Models\bin\Debug\Models.pdb
+C:\Users\Savva_000\Desktop\MessageApp\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Savva_000\Desktop\MessageApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Savva_000\Desktop\MessageApp\Models\obj\Debug\Models.dll
+C:\Users\Savva_000\Desktop\MessageApp\Models\obj\Debug\Models.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Models\bin\Debug\Models.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Models\bin\Debug\Models.pdb
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Models\obj\Debug\Models.dll
+C:\Users\Panagiotis\Desktop\MESSAGES PROJECT\MessageApp\Models\obj\Debug\Models.pdb
